@@ -1,4 +1,7 @@
-<img src="banner.png" width="100%">
+<img src="assets/banner.png" width="100%">
+<p align="center">
+  <img src="assets/logo.png" alt="Criptoclásica logo" width="200">
+</p>
 
 # criptoclasica
 Python tools for classical cryptanalysis with a mathematical focus: frequency analysis, IC, Hill cipher algebra, Vigenère attacks, transposition reconstruction, and statistical methods for ciphertext analysis.
