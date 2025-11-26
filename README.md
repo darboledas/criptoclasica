@@ -63,7 +63,7 @@ Clone the repository and run any script directly:
 ```bash
 git clone https://github.com/darboledas/criptoclasica
 cd criptoclasica
-python3 monoalphabetic/cesar.py --help
+python3 folder/script.py --help
 
 ## License
 
