@@ -12,3 +12,23 @@ This repository provides a modular collection of scripts for analysing and break
 - **Statistical tools**: distribution comparison, circular correlation, coincidence counting.
 
 ## Folder Structure
+
+
+## Documentation
+
+Each script includes:
+
+command-line help (--help)
+
+commented code
+
+
+A full  guide is available in the book “Fundamentos Matemáticos del Criptoanálisis Clásico — Teoría y Práctica”.
+
+## License
+
+MIT License.
+
+## Author
+
+David Arboledas Brihuega
